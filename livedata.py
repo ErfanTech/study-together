@@ -4,6 +4,7 @@ import math
 
 
 #test
+#edited by others
 symbol = Symbol(symbol_id='14079693677610396')
 
 price_overview = symbol.get_price_overview().traders_type
